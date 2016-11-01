@@ -1,0 +1,8 @@
+project LAB_3 is
+
+   package Ide is
+      for Vcs_Kind use "Auto";
+   end Ide;
+
+end LAB_3;
+
